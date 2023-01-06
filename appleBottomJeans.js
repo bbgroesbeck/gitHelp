@@ -5,3 +5,5 @@ function appleBottomJeans (boots) {
         return "them baggy sweat pants"
     } else return "everybody get lo!"
 }
+
+//added my own comment
