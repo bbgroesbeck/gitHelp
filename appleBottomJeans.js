@@ -17,3 +17,9 @@ function bananas (shiz) {
 // 
 // I could attempt to educate you on this subject
 // but it would require monetary recompense
+    } else return "everybody get low low low low low low!"
+}
+
+function bananas (shiz) {
+    shiz === 'bananas' ? 'b.a.n.a.n.a.s' : 'Please try again.'
+}
