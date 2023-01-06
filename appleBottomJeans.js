@@ -5,3 +5,7 @@ function appleBottomJeans (bootz) {
         return "them baggy sweat pants"
     } else return "everybody get lo!"
 }
+
+function bananas (shiz) {
+    shiz === 'bananas' ? 'b.a.n.a.n.a.s' : 'Please try again.'
+}
