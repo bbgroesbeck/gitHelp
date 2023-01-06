@@ -10,3 +10,10 @@ function appleBottomJeans (boots) {
 function bananas (shiz) {
     shiz === 'bananas' ? 'b.a.n.a.n.a.s' : 'Please try again.'
 }
+
+// My frozen dairy based confections do indeed
+// create a focal point to which young males
+// of the species are drawn.
+// 
+// I could attempt to educate you on this subject
+// but it would require monetary recompense
