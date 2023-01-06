@@ -9,3 +9,7 @@ function appleBottomJeans (boots) {
 function bananas (shiz) {
     shiz === 'bananas' ? 'b.a.n.a.n.a.s' : 'Please try again.'
 }
+
+function bananas (shiz) {
+stuff === 'donut' ? 'doNUT' : 'Please dont do that again.'
+}
