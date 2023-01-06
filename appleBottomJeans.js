@@ -3,6 +3,6 @@ function appleBottomJeans (bootz) {
         return "the whole clube be looking at her"
     } else if (boots === 'Reboks with the straps') {
         return "them baggy sweat pants"
-    } else return "everybody get lo!"
+    } else return "everybody get low low low low low low!"
 }
 //  remember git pull
