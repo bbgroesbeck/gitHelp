@@ -6,6 +6,7 @@ function appleBottomJeans (boots) {
     } else return "everybody get lo!"
 }
 
+
 function bananas (shiz) {
     shiz === 'bananas' ? 'b.a.n.a.n.a.s' : 'Please try again.'
 }
